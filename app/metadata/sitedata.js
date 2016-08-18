@@ -3,14 +3,14 @@ module.exports = {
     counter: 500,
     caption: 'Attendees'
   }, {
-    counter: 2,
-    caption: 'Days'
+    counter: 1,
+    caption: 'Día'
   }, {
     counter: 40,
-    caption: 'Sessions'
+    caption: 'Sesiones'
   }, {
-    counter: 3,
-    caption: 'Parallel tracks'
+    counter: 4,
+    caption: 'Sesiones paralelas'
   }],
   callToAction: {
     text: 'GDG DevFest 2014',
@@ -21,10 +21,10 @@ module.exports = {
     }
   },
   galleryBlock: {
-    title: 'GDG DevFest Ukraine 2014 - Photos',
+    title: 'Google IO 2016 - Photos',
     photos: {
-      big: '../images/backgrounds/2015_1.jpg',
-      small: ['../images/backgrounds/2015_2.jpg', '../images/backgrounds/2015_3.jpg']
+      big: '../images/backgrounds/2016-IO.jpg',
+      small: ['../images/backgrounds/2016-IO.jpg', '../images/backgrounds/2016-IO.jpg']
     },
     albumUrl: 'https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1'
   },
@@ -49,8 +49,8 @@ module.exports = {
     }],
     details: 'Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.'
   },
-  socialFeed: {
-    source: '/data/tweets.json'
-  },
-  partnershipProposition: '/assets/GDG_DevFest_Ukraine_2015_Partnership_Proposition.pdf'
+  // socialFeed: {
+  //   source: '/data/tweets.json'
+  // },
+  // partnershipProposition: '/assets/GDG_DevFest_Ukraine_2015_Partnership_Proposition.pdf'
 };

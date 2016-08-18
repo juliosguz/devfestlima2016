@@ -2,15 +2,15 @@ var config = require('../../config');
 
 module.exports = {
     baseurl: '',
-    url: 'https://hoverboard.firebaseapp.com/',
+    url: 'https://devfestlima2016.firebaseapp.com/',
     // Google Analytics code
-    trackerCode: 'UA-43643469-8',
+    // trackerCode: 'UA-43643469-8',
     // Google Webmaster Tools verification code
-    webtoolsCode: 'YOUR_WEBTOOLS_CODE',
+    // webtoolsCode: 'YOUR_WEBTOOLS_CODE',
     // Mailchimp subscribe
-    mailchimp: {
-        url: 'YOUR_MAILCHIMP_URL',
-        name: 'YOUR_MAILCHIMP_NAME'
-    },
-    disqusShortName: 'hoverboard-gdg-x'
+    // mailchimp: {
+    //     url: 'YOUR_MAILCHIMP_URL',
+    //     name: 'YOUR_MAILCHIMP_NAME'
+    // },
+    // disqusShortName: 'hoverboard-gdg-x'
 };
