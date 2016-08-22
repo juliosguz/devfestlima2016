@@ -21,12 +21,12 @@ module.exports = {
     }
   },
   galleryBlock: {
-    title: 'Google IO 2016 - Photos',
+    title: 'Actividades del GDG Open',
     photos: {
-      big: '../images/backgrounds/2016-IO.jpg',
-      small: ['../images/backgrounds/2016-IO.jpg', '../images/backgrounds/2016-IO.jpg']
+      big: 'https://lh3.googleusercontent.com/sFh1FJfEvqEuTKyuI8iu8KlDkWod4_i60jT-qs941AnvFuq3jlkW1cnq_FUWkPMP1onxsiY7=w654-h414-p-no',
+      small: ['https://lh3.googleusercontent.com/hngcZ8UFeq8paXOn1I1BDNdS3-cMKKeNsbuwvtpFrOA2-7HPeFV4YqC2Xta-lJ4GvhIs9tyd=w534-h398-p-no', 'https://lh3.googleusercontent.com/-ihyIFu-QkvI/VGHziTrP4-I/AAAAAAAAGkY/r_Jm9t7sdLY0heCa0t0RPTHTJIBHc8aiwCJkCEAE/w676-h450-p-no/DSC04727-SMILE.jpg']
     },
-    albumUrl: 'https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1'
+    albumUrl: 'https://plus.google.com/u/0/+GDGOpenLimaPeru/photos'
   },
   ticketsBlock: {
     title: 'Tickets',
@@ -47,10 +47,7 @@ module.exports = {
       currency: 'UAH',
       info: '*Before October 23'
     }],
-    details: 'Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.'
+    details: 'La participación es gratuita previo registro en Eventbrite.'
   },
-  // socialFeed: {
-  //   source: '/data/tweets.json'
-  // },
-  // partnershipProposition: '/assets/GDG_DevFest_Ukraine_2015_Partnership_Proposition.pdf'
+  eventbriteUrl: 'https://www.eventbrite.es/e/entradas-gdg-devfest-lima-2016-26807114802'
 };

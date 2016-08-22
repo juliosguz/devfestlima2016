@@ -1,56 +1,50 @@
 [{
-    "title": "Template creator",
-    "logos": [{
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/partners/gdg-lviv.svg",
-        "width": 170
-    }]
-}, {
-    "title": "General partner",
-    "logos": [{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    },{
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/partners/gdg-x.svg"
-    },{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
-    }]
+    "title": "Nuestros auspiciadores",
+    "logos": [
+      {
+        "name": "Universidad Inca Garcilaso de la Vega",
+        "url": "",
+        "logoUrl": "../images/partners/uigv.png"
+      },
+      {
+        "name": "GDG Open",
+        "url": "",
+        "logoUrl": "../images/partners/gdgopen.png"
+      },
+      {
+        "name": "WTM",
+        "url": "",
+        "logoUrl": "../images/partners/wtm.png"
+      },
+      {
+        "name": "GDG Cusco",
+        "url": "",
+        "logoUrl": "../images/partners/gdgcusco.png"
+      },
+      {
+        "name": "GDG Cochabamba",
+        "url": "",
+        "logoUrl": "../images/partners/gdgcochabamba.png"
+      },
+      {
+        "name": "Belatrix",
+        "url": "",
+        "logoUrl": "../images/partners/belatrix.png"
+      },
+      {
+        "name": "Coslig",
+        "url": "",
+        "logoUrl": "../images/partners/coslig.png"
+      },
+      {
+        "name": "GoLang Lima",
+        "url": "",
+        "logoUrl": "../images/partners/golanglima.png"
+      },
+      {
+        "name": "React Lima",
+        "url": "",
+        "logoUrl": "../images/partners/reactlima.png"
+      }
+    ]
 }]

@@ -3,40 +3,14 @@ module.exports = {
   {
     route: 'home',
     permalink: '/',
-    text: 'Home',
+    text: 'Inicio',
     heroSettings: {
       backgroundColor: '#00BCD4',
       backgroundImage: '/images/backgrounds/2016-IO.jpg',
       fontColor: '#FFFFFF',
-      tabBarColor: '#FFFFFF',
-      // video: {
-      //   title: 'GDG DevFest Ukraine 2015',
-      //   youtubeId: 'DfMnJAzOFng',
-      //   text: 'See how it was in 2015'
-      // }
+      tabBarColor: '#FFFFFF'
     }
   },
-  // {
-  //   route: 'blog',
-  //   permalink: '/blog',
-  //   text: 'Blog',
-  //   heroSettings: {
-  //     backgroundColor: '#03A9F4',
-  //     backgroundImage: '/images/backgrounds/blog.png',
-  //     fontColor: '#FFFFFF',
-  //     tabBarColor: '#FFFFFF'
-  //   }
-  // },
-  // {
-  //   route: 'schedule',
-  //   permalink: '/schedule',
-  //   text: 'Schedule',
-  //   heroSettings: {
-  //     backgroundColor: '#607D8B',
-  //     fontColor: '#FFFFFF',
-  //     tabBarColor: '#FFFFFF'
-  //   }
-  // },
   {
     route: 'speakers',
     permalink: '/speakers',

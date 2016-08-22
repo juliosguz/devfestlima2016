@@ -74,16 +74,9 @@
                 font-size: 14px;
             }
 
-            .open-dialog-button {
+            .eventbrite-button {
+                background-color: white;
                 margin-top: 30px;
-            }
-
-            paper-dialog {
-                background: #fff;
-            }
-
-            paper-dialog .buttons {
-                color: initial;
             }
 
             @media (min-width: 601px) {
@@ -99,33 +92,13 @@
 
         <div class="container text-center">
             <h4 class="heading">{$ ticketsBlock.title $}</h4>
-            <div class="price-block-wrapper">
-                {% for ticket in ticketsBlock.tickets %}
-                <div class="price-block text-center {% if ticket.soldOut %}sold-out{% endif %}">
-                    <div class="ticket-name">{$ ticket.name $}</div>
-                    <span class="price">{$ ticket.price $}</span>
-                    <span class="currency">{$ ticket.currency $}</span>
-                    <div class="additional-info">{$ ticket.info $}</div>
-                    {% if ticket.soldOut %}
-                    <div class="sold-out-text">
-                        <span>Sold Out</span>
-                    </div>
-                    {% endif %}
-                </div>
-                {% endfor %}
-            </div>
             <span class="details">{$ ticketsBlock.details $}</span>
             <div class="block">
-                <paper-button class="white border-button open-dialog-button" on-tap="openTicketsDialog">Buy a ticket
-                </paper-button>
+                <a href="{$ eventbriteUrl $}" target="_blank">
+                  <paper-button class="eventbrite-button" raised>Registrate aquí</paper-button>
+                </a>
             </div>
         </div>
-        <paper-dialog id="ticketsDialog" entry-animation="scale-up-animation" exit-animation="fade-out-animation" modal>
-            <p>We have run out all our tickets</p>
-            <div class="buttons">
-                <paper-button dialog-confirm>Close</paper-button>
-            </div>
-        </paper-dialog>
     </template>
 
     <script>
