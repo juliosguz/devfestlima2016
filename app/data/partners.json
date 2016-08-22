@@ -1,4 +1,18 @@
 [{
+  "title": "Platinum Sponsor",
+  "logos": [
+    {
+      "name": "Universidad Inca Garcilaso de la Vega",
+      "url": "http://www.uigv.edu.pe/",
+      "logoUrl": "../images/partners/uigv.png"
+    },
+    {
+      "name": "Belatrix",
+      "url": "www.belatrixsf.com",
+      "logoUrl": "../images/partners/belatrix.png"
+    }
+  ]
+} , {
   "title": "Organiza",
   "logos": [
     {
@@ -15,20 +29,6 @@
       "name": "GDG Cochabamba",
       "url": "http://www.gdg.com.bo/",
       "logoUrl": "../images/partners/gdgcochabamba.png"
-    }
-  ]
-} , {
-  "title": "Platinum Sponsor",
-  "logos": [
-    {
-      "name": "Universidad Inca Garcilaso de la Vega",
-      "url": "http://www.uigv.edu.pe/",
-      "logoUrl": "../images/partners/uigv.png"
-    },
-    {
-      "name": "Belatrix",
-      "url": "www.belatrixsf.com",
-      "logoUrl": "../images/partners/belatrix.png"
     }
   ]
 } , {
