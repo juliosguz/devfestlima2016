@@ -1,22 +1,126 @@
 {
-  "23": {
-    "id": 23,
+  "1": {
+    "id": 1,
+    "featured": true,
+    "name": "Chris Ramón",
+    "title": "",
+    "company": "",
+    "country": "Perú",
+    "photoUrl": "/images/people/chris-ramon.jpeg",
+    "bio": "Chris Ramón es un desarrollador de software que trabaja para eventlama.com y contribuye al proyecto open-source graphql-go.",
+    "tags": [
+      "Go"
+    ],
+    "socials": [
+      {
+        "name": "Website",
+        "icon": "website",
+        "link": "http://chris.pe/"
+      },
+      {
+        "name": "Google+",
+        "icon": "gplus",
+        "link": "https://plus.google.com/105395214612249824689"
+      },
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/cramonn"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/chris-ramon"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "featured": true,
+    "name": "Jonathan Torres",
+    "title": "",
+    "company": "",
+    "country": "Perú",
+    "photoUrl": "/images/people/jonathan-torres.jpg",
+    "bio": "Compartir, enseñar, aprender y generar conocimiento es lo que viene a la mente cuando pienso acerca de mi, soy amante del software libre y del acceso libre a la información, como autodidacta creo que no se nos debe negar la información, estoy en una lucha constante por un mundo más culto. Las tecnologias de la Información(TIC's) es mi pasatiempo favorito y trabajo a la vez, pero como no te puede alcanzar la vida para aprender todo me considero muy bueno en la plataforma Java (J2SE y J2EE), puedo tener muchos defectos pero espero que mis virtudes lo superen, pero para eso debes conocerme. En la actualidad aprendo tecnologias Google como Google Engine en combinación con Java, Google Web Toolkit, MGWT, GWTPhoneGap y otros servicios, para la realización del proyecto 'KIONGO', este proyecto fue el punto de partida para enamorarme de los servicios de google.",
+    "tags": [
+      "App Engine",
+      "Android",
+      "Firebase",
+      "Google Maps APIs",
+      "Google Web Toolkit"
+    ],
+    "socials": [
+      {
+        "name": "Website",
+        "icon": "website",
+        "link": "http://www.enjava2.com/"
+      },
+      {
+        "name": "Google+",
+        "icon": "gplus",
+        "link": "https://plus.google.com/+JonathanFranchescoTorresBaca"
+      },
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/jofrantoba"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/jofrantoba"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "featured": true,
+    "name": "Diego Coy",
+    "title": "",
+    "company": "",
+    "country": "Colombia",
+    "photoUrl": "/images/people/diego-coy.jpg",
+    "bio": "Diego es un desarrollador web comprometido con la enseñanza. Se dedica a difundir el uso de APIs modernas en eventos como charlas y workshops dirigidos a programadores en todas las etapas de formación. Es consultor para empresas capacitando equipos de programadores en tecnologías de desarrollo web, y en particular, en el uso de AngularJS. Además, es organizador del grupo AngularJS Colombia y coorganizador del GDG Bogotá.",
+    "tags": [
+      "Progressive Web Apps"
+    ],
+    "socials": [
+      {
+        "name": "Website",
+        "icon": "website",
+        "link": "http://unjavascripter.github.io/"
+      },
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/unJavaScripter"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/unJavaScripter"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
     "featured": true,
     "name": "Noe Branagan",
     "title": "",
     "company": "",
-    "country": "Costa Rica",
+    "country": "Republica Dominicana",
     "photoUrl": "/images/people/noe-branagan.jpg",
-    "bio": "Desarrollador de aplicaciones móviles enfocado 100% en Android, ha estado abogando por todo lo relacionado a desarrollo de aplicaciones móvil desde 2010, charlista internacional, coach/mentor en actividades como hackathones, startup weekends, organizador de comunidades para desarrolladores, basta experiencia en el área de R&D para mercados emergentes(África y medio oriente), actualmente es mobile develoepr lead en instacarro.com empresa pionera en el servicio de venta de vehículos en Brasil con una plataforma de subastas para concesionarios de carros usados. Le gusta colaborar con cualquier tipo de actividad relacionado a incrementar el nivel de los desarrolladores, tienes algo en mente solo envíale un mensaje @noeBranagan.",
+    "bio": "Desarrollador de aplicaciones móviles enfocado 100% en Android, ha estado abogando por todo lo relacionado a desarrollo de aplicaciones móvil desde 2010, charlista internacional, coach/mentor en actividades como hackathones, startup weekends, organizador de comunidades para desarrolladores, basta experiencia en el área de R&D para mercados emergentes(África y medio oriente), actualmente es mobile develoepr lead en instacarro.com empresa pionera en el servicio de venta de vehículos en Brasil con una plataforma de subastas para concesionarios de carros usados. Le gusta colaborar con cualquier tipo de actividad relacionado a incrementar el nivel de los desarrolladores, tienes algo en mente solo envíale un mensaje @noeBranagan",
     "tags": [
-      "Android",
-      "Internet of things"
+        "Android",
+        "Internet of things"
     ],
     "socials": [
       {
         "name": "Google+",
         "icon": "gplus",
-        "link": "https://plus.google.com/+DawidOstrowski/"
+        "link": "https://plus.google.com/+NoeBranagan"
       },
       {
         "name": "Twitter",
@@ -30,36 +134,137 @@
       }
     ]
   },
-  "21": {
-    "id": 21,
+  "5": {
+    "id": 5,
     "featured": true,
-    "name": "Chris Ramon",
+    "name": "Ronald Velásquez García",
     "title": "",
     "company": "",
     "country": "Perú",
-    "photoUrl": "/images/people/chris-ramon.jpeg",
-    "bio": "Desarrollador de software que trabaja para eventlama.com y contribuye al proyecto open-source graphql-go.",
+    "photoUrl": "/images/people/ronald-velasquez.jpg",
+    "bio": "Desarrollador Android y ocasionalmente web. Más de 2 años de experiencia en el desarrollo de aplicaciones móviles para clientes empresariales. Actualmente trabajo en la empresa TiSmart Perú.",
     "tags": [
-      "Android",
-      "Internet of things"
+        "Android",
+        "Firebase"
     ],
     "socials": [
       {
-        "name": "Website",
-        "icon": "website",
-        "link": "http://chris.pe/"
-      },
-      {
         "name": "Twitter",
         "icon": "twitter",
-        "link": "https://twitter.com/cramonn"
+        "link": "https://twitter.com/ervelasquez"
       },
       {
         "name": "GitHub",
         "icon": "github",
-        "link": "https://github.com/chris-ramon"
+        "link": "https://github.com/ronaldVelasquez"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "featured": true,
+    "name": "Pablo Johnson Rojas",
+    "title": "",
+    "company": "",
+    "country": "Perú",
+    "photoUrl": "/images/people/pablo-johnson.jpg",
+    "bio": "Desarrollador Android, músico y emprendedor. Siempre en búsqueda de nuevos conocimientos y experiencias.",
+    "tags": [
+        "Android",
+        "MVP"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/pablojohnson88"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/pablo-johnson"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "featured": true,
+    "name": "Juan Carlos Yovera Cruz",
+    "title": "",
+    "company": "",
+    "country": "Perú",
+    "photoUrl": "/images/people/juan-yovera.jpg",
+    "bio": "Senior Front End Developer en Belatrix Software, con mas de 11 años de experiencia en el mundo del software, especialista en UX y JS.",
+    "tags": [
+        "AngularJS"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/jcuxui"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/jcyovera"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "featured": true,
+    "name": "Nadia Mashenka Breuer Pilco",
+    "title": "",
+    "company": "",
+    "country": "Perú",
+    "photoUrl": "/images/people/nadia-breuer.jpg",
+    "bio": "Diseñadora Gráfica Mobile, con Experiencia de 4 años en Diseño Gráfico, trabajo actualmente en GMD como diseñadora UI.",
+    "tags": [
+        "Google Apps",
+        "Drive"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/nbreuerp"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "featured": true,
+    "name": "Carlos Collazos",
+    "title": "",
+    "company": "",
+    "country": "Bolivia",
+    "photoUrl": "/images/people/carlos-collazos.png",
+    "bio": "Desarrollador Frontend y Diseñador Grafico autodidacta, codeador, gamer, musico frustrado y fotógrafo aficionado! Me apasiona el diseño de interfaces (UI), el diseño de experiencias de usuario (UX) ",
+    "tags": [
+        "Design Sprints"
+    ],
+    "socials": [
+      {
+        "name": "Behance",
+        "icon": "website",
+        "link": "https://www.behance.net/carlosuxd"
+      },
+      {
+        "name": "Google+",
+        "icon": "gplus",
+        "link": "https://plus.google.com/u/0/+CarlitosCollazos"
+      },
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/carlosuxd"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/carlosuxd"
       }
     ]
   }
-
 }

@@ -72,8 +72,13 @@
             }
           };
           this.observers = [
-            '_generateSchedule(_speakersRaw, sessions, _scheduleRaw)'
+            // '_generateSchedule(_speakersRaw, sessions, _scheduleRaw)'
+            '_generateSpeakers(_speakersRaw)'
           ];
+        }
+
+        _generateSpeakers() {
+          this.speakers = this._speakersRaw;
         }
 
         _generateSchedule() {
@@ -113,16 +118,15 @@
             for (var j = 0, speakersLen = session.speakers.length; j < speakersLen; j++) {
               if (session.speakers[j] && !session.speakers[j].id) {
                 session.speakers[j] = this._speakersRaw[session.speakers[j]];
-                if (session.speakers[j]) {
+
                 var tempSession = JSON.parse(JSON.stringify(session));
                 delete tempSession.speakers;
 
-                  if (!session.speakers[j].sessions) {
-                    session.speakers[j].sessions = [];
-                  }
-                  session.speakers[j].sessions.push(tempSession);
-                  speakers.push(session.speakers[j].name);
+                if (!session.speakers[j].sessions) {
+                  session.speakers[j].sessions = [];
                 }
+                session.speakers[j].sessions.push(tempSession);
+                speakers.push(session.speakers[j].name);
 
               }
             }

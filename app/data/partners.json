@@ -1,50 +1,63 @@
 [{
-    "title": "Nuestros auspiciadores",
-    "logos": [
-      {
-        "name": "Universidad Inca Garcilaso de la Vega",
-        "url": "",
-        "logoUrl": "../images/partners/uigv.png"
-      },
-      {
-        "name": "GDG Open",
-        "url": "",
-        "logoUrl": "../images/partners/gdgopen.png"
-      },
-      {
-        "name": "WTM",
-        "url": "",
-        "logoUrl": "../images/partners/wtm.png"
-      },
-      {
-        "name": "GDG Cusco",
-        "url": "",
-        "logoUrl": "../images/partners/gdgcusco.png"
-      },
-      {
-        "name": "GDG Cochabamba",
-        "url": "",
-        "logoUrl": "../images/partners/gdgcochabamba.png"
-      },
-      {
-        "name": "Belatrix",
-        "url": "",
-        "logoUrl": "../images/partners/belatrix.png"
-      },
-      {
-        "name": "Coslig",
-        "url": "",
-        "logoUrl": "../images/partners/coslig.png"
-      },
-      {
-        "name": "GoLang Lima",
-        "url": "",
-        "logoUrl": "../images/partners/golanglima.png"
-      },
-      {
-        "name": "React Lima",
-        "url": "",
-        "logoUrl": "../images/partners/reactlima.png"
-      }
-    ]
+  "title": "Organiza",
+  "logos": [
+    {
+      "name": "GDG Open",
+      "url": "https://www.facebook.com/gdgopen/",
+      "logoUrl": "../images/partners/gdgopen.png"
+    },
+    {
+      "name": "WTM",
+      "url": "https://www.facebook.com/womentechmakerslima",
+      "logoUrl": "../images/partners/wtm.png"
+    },
+    {
+      "name": "GDG Cochabamba",
+      "url": "http://www.gdg.com.bo/",
+      "logoUrl": "../images/partners/gdgcochabamba.png"
+    }
+  ]
+} , {
+  "title": "Platinum Sponsor",
+  "logos": [
+    {
+      "name": "Universidad Inca Garcilaso de la Vega",
+      "url": "http://www.uigv.edu.pe/",
+      "logoUrl": "../images/partners/uigv.png"
+    },
+    {
+      "name": "Belatrix",
+      "url": "www.belatrixsf.com",
+      "logoUrl": "../images/partners/belatrix.png"
+    }
+  ]
+} , {
+  "title": "Comunidades",
+  "logos":[
+    {
+      "name": "GDG Cusco",
+      "url": "http://www.meetup.com/es/gdgcusco",
+      "logoUrl": "../images/partners/gdgcusco.png"
+    },
+    {
+      "name": "GDG Ica",
+      "url": "https://www.facebook.com/GDGIca",
+      "logoUrl": "../images/partners/gdgica.png"
+    },
+    {
+      "name": "Cosolig",
+      "url": "http://www.cosolig.org/",
+      "logoUrl": "../images/partners/coslig.png"
+    },
+    {
+      "name": "GoLang Lima",
+      "url": "http://www.meetup.com/es-ES/Golang-Peru",
+      "logoUrl": "../images/partners/golanglima.png"
+    },
+    {
+      "name": "React Lima",
+      "url": "http://www.meetup.com/es/ReactJS-Peru",
+      "logoUrl": "../images/partners/reactlima.png"
+    }
+  ]
 }]

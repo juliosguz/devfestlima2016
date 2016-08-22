@@ -16,8 +16,8 @@ module.exports = {
       title: 'Contactanos',
       links: [
         {
-          text: 'devfest@google.com',
-          url: 'mailto:devfest@google.com'
+          text: 'gdgopenlima@gmail.com',
+          url: 'mailto:gdgopenlima@gmail.com'
         }
       ]
     }
