@@ -28,6 +28,10 @@ module.exports = {
         {
           text: 'gdgopenlima@gmail.com',
           url: 'mailto:gdgopenlima@gmail.com'
+        },
+        {
+          text: 'gdgwomenlima@gmail.com',
+          url: 'mailto:gdgwomenlima@gmail.com'
         }
       ]
     }
