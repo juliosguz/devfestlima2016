@@ -193,7 +193,7 @@
     "title": "",
     "company": "",
     "country": "Perú",
-    "photoUrl": "/images/people/juan-yovera.jpg",
+    "photoUrl": "/images/people/juan-carlos-yovera.jpg",
     "bio": "Senior Front End Developer en Belatrix Software, con mas de 11 años de experiencia en el mundo del software, especialista en UX y JS.",
     "tags": [
         "AngularJS"
@@ -239,7 +239,7 @@
     "title": "",
     "company": "",
     "country": "Bolivia",
-    "photoUrl": "/images/people/carlos-collazos.png",
+    "photoUrl": "/images/people/carlos-collazos.jpg",
     "bio": "Desarrollador Frontend y Diseñador Grafico autodidacta, codeador, gamer, musico frustrado y fotógrafo aficionado! Me apasiona el diseño de interfaces (UI), el diseño de experiencias de usuario (UX) ",
     "tags": [
         "Design Sprints"
@@ -264,6 +264,235 @@
         "name": "GitHub",
         "icon": "github",
         "link": "https://github.com/carlosuxd"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "featured": true,
+    "name": "Luz Maria Maida Claure",
+    "title": "",
+    "company": "",
+    "country": "Bolivia",
+    "photoUrl": "/images/people/lu-maida.jpg",
+    "bio": "Front-End Developer, Women Techmaker Lead en Cochabamba con una gran pasión por la tecnología, desarrollo, analítica de datos usando productos y servicios de Google en proyectos web y movil.",
+    "tags": [
+        "Firebase"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/LuMaidacl"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/lumaidacl"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "featured": true,
+    "name": "Julio Silva",
+    "title": "",
+    "company": "",
+    "country": "Bolivia",
+    "photoUrl": "/images/people/julio-silva.jpg",
+    "bio": "Full Stack Web Developer con 8 años de experiencia y es actualmente Tech Lead en Moka Mint que es una empresa de desarrollo de software moderno y cofundador de medios de difusión digital sobre tecnología, desarrollo y videojuegos: Click Izquierdo, DevStop y The Gamer Day. Actualmente también participa como mentor, expositor y organizador dentro del GDG Cochabamba.",
+    "tags": [
+        "Firebase",
+        "Google App Engine",
+        "Polymer",
+        "Progressive Web Apps"
+    ],
+    "socials": [
+      {
+        "name": "Facebook",
+        "icon": "facebook",
+        "link": "https://www.facebook.com/juliosguz"
+      },
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/juliosguz"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/juliosguz"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "featured": true,
+    "name": "Antonio Guzman",
+    "title": "",
+    "company": "",
+    "country": "Mexico",
+    "photoUrl": "/images/people/antonio-guzman.jpg",
+    "bio": "Desarrollador de software que gusta de los gatos, las patinetas y los stickers. Google Developer Expert, GDG Cloud MX. De Iztapalapa, con cariño, para el mundo.",
+    "tags": [
+        "Machine learning",
+        "IA"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/tonioguzmanf"
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "featured": true,
+    "name": "Cesar Alvarado",
+    "title": "",
+    "company": "",
+    "country": "Perú",
+    "photoUrl": "/images/people/cesar-alvarado.jpg",
+    "bio": "Software architect, Go (Golang), Java EE, GAE, Oracle, Angular at TGestiona (Telefonica Gestion de Serv Comp..) ",
+    "tags": [
+        "Docker"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/CesarAlvaradoP"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "featured": true,
+    "name": "Rosa María Orellana",
+    "title": "",
+    "company": "",
+    "country": "Perú",
+    "photoUrl": "/images/people/ross.png",
+    "bio": "I am a dedicated and results oriented engineer with a broad range of software engineering experience to Digital Innovation Products, committed to developing high quality software in a competitive environment, digital technology solutions (web, app, etc), utilizing best practices and standards in the industry. I have strong communication skills, and enjoy working in highly collaborative groups that value teamwork and initiative. Worked on all aspects of software development, including requirements, design, and testing. Lead and collaborated on a variety of complex projects with scalable and distributed architecture. Integrated and customized existing applications to support evolving engineering processes. Worked extensively on user interfaces and usability improvements. Most of my experience is in Linux development environment, using Php, Python, Ruby  XML/HTML and SQL, however, I've used Java, JavaScript, and other languages when required by the projects",
+    "tags": [
+        "TeansorFlow",
+        "Machine Learning",
+        "Google Cloud"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/assoritam"
+      },
+      {
+        "name": "Bitbucket",
+        "icon": "bitbucket",
+        "link": "https://bitbucket.org/assoritam/"
+      },
+      {
+        "name": "Web",
+        "icon": "website",
+        "link": "http://wanavana.co"
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "featured": true,
+    "name": "Brian Castillo",
+    "title": "",
+    "company": "",
+    "country": "Perú",
+    "photoUrl": "/images/people/brian-castillo.jpg",
+    "bio": "Mi nombre es Brian Castillo, últimamente me dicen #elbrayan y si les digo que vivo en el Callao me miran feo y me ignoran, me juzgan sin siquiera conocerme. No saben que por dentro soy un simple geek que le gusta los superheroes, ama la pasta y le encanta amanecerme programando. Para este momento por mis venas corre mas cafeína que sangre. Ah y por el día soy desarrollador android, fundador de Horses Developer y Wappy. Nunca pensé que tendría pasión por la docencia, hasta que empece a enseñar SQL(si, sé SQL), y gracias al Study Jam pude enseñar Android y lo disfruté; ahora junto con mi empresa, Horses Developer, estamos empezando a enseñar a jóvenes Android y me encanta. Y también sé C#, Ruby y demás cosas que puedo aprender en una sola noche.",
+    "tags": [
+        "Android",
+        "Firebase"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/briansalvattore"
+      },
+      {
+        "name": "Github",
+        "icon": "github",
+        "link": "https://bitbucket.org/briansalvattore/"
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "featured": true,
+    "name": "Roxana Panaqué",
+    "title": "",
+    "company": "",
+    "country": "Perú",
+    "photoUrl": "/images/people/roxana.jpg",
+    "bio": "Junior Developer Mobile , Women Techmakers Lima Lead. Apasionada por la tecnología. Disfruto ir a recitales de piano, los videojuegos y de la buena música.",
+    "tags": [
+        "Firebase"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/rpanaque"
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "featured": true,
+    "name": "Armando Picon",
+    "title": "",
+    "company": "",
+    "country": "Perú",
+    "photoUrl": "/images/people/armando-picon.jpg",
+    "bio": "Tec. Computación e Informática y Freelance. Se desempeña también como Mobile Developer Lead en Wataweb y, CTO de Fullday.pe y Cooltura App (en desarrollo). Durante los últimos 8 años, ha participado en diferentes proyectos de desarrollo de software en los sectores público y privado. Es organizador de la comunidad GDG Open en la ciudad Lima, comunidad que busca difundir el uso de las tecnologías que Google provee. Publica artículos sobre desarrollo de software en su blog http://medium.com/@devpicon y su repo en github https://github.com/devpicon/",
+    "tags": [
+        "Android",
+        "Kotlin",
+        "Java"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/devpicon"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/devpicon/ "
+      },
+      {
+        "name": "Web",
+        "icon": "website",
+        "link": "http://medium.com/@devpicon "
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "featured": true,
+    "name": "Harry Colchado Villanueva",
+    "title": "",
+    "company": "",
+    "country": "Perú",
+    "photoUrl": "",
+    "bio": "Desarrollador Full Stack, especialista en WordPress, colaborador de comunidades tecnológicas.",
+    "tags": [
+        "Google App Engine"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/harry61286"
       }
     ]
   }
