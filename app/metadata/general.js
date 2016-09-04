@@ -45,7 +45,7 @@ module.exports = {
     },
   },
   hashtag: 'dfua',
-  email: 'devfest@gdg.com',
+  email: 'gdgopenlima@gmail.com',
   organizer: {
     name: 'GDG Open',
     blog: 'http://gdgopen.com/'

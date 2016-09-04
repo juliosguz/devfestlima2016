@@ -24,7 +24,11 @@ module.exports = {
     title: 'Actividades del GDG Open',
     photos: {
       big: 'https://lh3.googleusercontent.com/sFh1FJfEvqEuTKyuI8iu8KlDkWod4_i60jT-qs941AnvFuq3jlkW1cnq_FUWkPMP1onxsiY7=w654-h414-p-no',
-      small: ['https://lh3.googleusercontent.com/hngcZ8UFeq8paXOn1I1BDNdS3-cMKKeNsbuwvtpFrOA2-7HPeFV4YqC2Xta-lJ4GvhIs9tyd=w534-h398-p-no', 'https://lh3.googleusercontent.com/-ihyIFu-QkvI/VGHziTrP4-I/AAAAAAAAGkY/r_Jm9t7sdLY0heCa0t0RPTHTJIBHc8aiwCJkCEAE/w676-h450-p-no/DSC04727-SMILE.jpg']
+      small: [
+        '/images/photos/wtm-meetup.jpg',
+        '/images/photos/gdg-meetup.jpg',
+        'https://lh3.googleusercontent.com/-ihyIFu-QkvI/VGHziTrP4-I/AAAAAAAAGkY/r_Jm9t7sdLY0heCa0t0RPTHTJIBHc8aiwCJkCEAE/w676-h450-p-no/DSC04727-SMILE.jpg'        
+      ]
     },
     albumUrl: 'https://plus.google.com/u/0/+GDGOpenLimaPeru/photos'
   },
