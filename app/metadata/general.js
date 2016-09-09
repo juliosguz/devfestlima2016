@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'GDG DevFest Season 2016',
+  title: 'GDG DevFest Lima 2016',
   description: 'Es una de las series de eventos más grandes del mundo. Estos son organizados por comunidades de desarrollo de tecnologías Google y están dirigidos a quienes estén interesados en los diferentes aspectos que involucra la creación de una aplicación -tales como su desarrollo, diseño y más- tanto para principiantes como también expertos.',
   keywords: 'event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, cloud, firebase',
   charset: 'utf-8',
   lang: 'en',
   // Add to homescreen for Chrome on Android
-  applicationName: 'GDG DevFest Season 2016',
+  applicationName: 'GDG DevFest Lima 2016',
   // Add to homescreen for Safari on iOS
-  appleMobileWebAppTitle: 'GDG DevFest Season 2016',
+  appleMobileWebAppTitle: 'GDG DevFest Lima 2016',
 
   // Event details
-  dates: '17 de Septiembre, 2015',
+  dates: '17 de Septiembre, 2016',
   location: {
     title: 'Universidad Inca Garcilaso de la Vega',
     description: 'Facultad Ingeniería de   Sistemas, Cómputo y Telecomunicaciones',
